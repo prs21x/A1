@@ -6,10 +6,11 @@
 
       h1 {
 
-        font-size: 40px;
+        font-size: 40px
+        text-align: center;
 
       }
-        text-align: center;
+        
     </style>
   </head>
   <body>
