@@ -3,13 +3,14 @@
   <head>
     <meta charset="utf-8">
       <style>
+       <h1 {font-size: 40px
+           text-align: center;}>
+      </style>    
 
-      h1 {
+        
 
-        font-size: 40px
-        text-align: center;
+      
 
-      }
         
     </style>
   </head>
